@@ -33,7 +33,7 @@
 <span class=byline>Start playing and enjoying the game.</span>
 </header>
 <footer>
-<a href=#banner class="button circled scrolly">Start</a>
+<a href=#banner class="button circled scrolly">Play</a>
 </footer>
 </div>
 <nav id=nav>
