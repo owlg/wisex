@@ -7,28 +7,22 @@
 <meta name=keywords content />
 <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600" rel=stylesheet type=text/css />
 <!--[if lte IE 8]><script src=js/html5shiv.js></script><![endif]-->
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-<script async="true" src="http://www.owlg.org/wisex/js/jquery.dropotron.min.js"></script>
-<script src="http://www.owlg.org/wisex/js/skel.min.js"></script>
-<script src="http://www.owlg.org/wisex/js/skel-panels.min.js"></script>
-<script src="http://www.owlg.org/wisex/js/init.js"></script>
+<script src=http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js></script>
+<script async=true src=http://www.owlg.org/wisex/js/jquery.dropotron.min.js></script>
+<script src=http://www.owlg.org/wisex/js/skel.min.js></script>
+<script src=http://www.owlg.org/wisex/js/skel-panels.min.js></script>
+<script src=http://www.owlg.org/wisex/js/init.js></script>
 <noscript>
-<link rel=stylesheet href="http://www.owlg.org/wisex/css/skel-noscript.css" />
-<link rel=stylesheet href="http://www.owlg.org/wisex/css/style.css" />
-<link rel=stylesheet href="http://www.owlg.org/wisex/css/style-desktop.css" />
-<link rel=stylesheet href="http://www.owlg.org/wisex/css/style-noscript.css" />
+<link rel=stylesheet href=http://www.owlg.org/wisex/css/skel-noscript.css />
+<link rel=stylesheet href=http://www.owlg.org/wisex/css/style.css />
+<link rel=stylesheet href=http://www.owlg.org/wisex/css/style-desktop.css />
+<link rel=stylesheet href=http://www.owlg.org/wisex/css/style-noscript.css />
 </noscript>
 <!--[if lte IE 8]><link rel=stylesheet href=css/ie8.css /><![endif]-->
 </head>
 <body>
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=468230926614503";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+<div id=fb-root></div>
+<script>(function(e,a,f){var c,b=e.getElementsByTagName(a)[0];if(e.getElementById(f)){return}c=e.createElement(a);c.id=f;c.src="//connect.facebook.net/en_US/all.js#xfbml=1&appId=468230926614503";b.parentNode.insertBefore(c,b)}(document,"script","facebook-jssdk"));</script>
 </body>
 <body class=homepage>
 <div id=header>
@@ -96,21 +90,20 @@ Best template built by <a href=http://owlg.org/>OWLG</a> with collaboration with
 <div class="wrapper style2">
 <article id=main class="container special">
 <center>
-
-<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" id="u35941" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="960" height="550">
-	          <param name="movie" value="gamefiles/GRAVEYARD.swf" />
-	          <param name="LOOP" value="false" />
-	          <param name="SCALE" value="exactfit" />
-	          <param name="allowScriptAccess" value="always" />
-			  <param name="allowFullScreen" value="true" />
-	          <param name="menu" value="false" />
-	          <param name="wmode" value="window" />
-	          <param name="FlashVars" value="&sLang=en" />
-	          <embed src="/gamefiles/loader_r8.swf" width="940" height="550" loop="false" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" scale="exactfit" allowscriptaccess="always" allowFullScreen="true" menu="false" flashvars="&sLang=en"></embed>
-	        </object>
-			</center>
+<object classid=clsid:D27CDB6E-AE6D-11cf-96B8-444553540000 id=u35941 codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width=960 height=550>
+<param name=movie value=gamefiles/GRAVEYARD.swf />
+<param name=LOOP value=false />
+<param name=SCALE value=exactfit />
+<param name=allowScriptAccess value=always />
+<param name=allowFullScreen value=true />
+<param name=menu value=false />
+<param name=wmode value=window />
+<param name=FlashVars value="&sLang=en" />
+<embed src=/gamefiles/loader_r8.swf width=940 height=550 loop=false pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type=application/x-shockwave-flash scale=exactfit allowscriptaccess=always allowFullScreen=true menu=false flashvars="&sLang=en"></embed>
+</object>
+</center>
 <center>
-<iframe src="https://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Faqwps&amp;width=600&amp;height=427&amp;colorscheme=light&amp;show_faces=false&amp;header=true&amp;stream=true&amp;show_border=true&amp;appId=468230926614503" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:600px; height:427px;" allowTransparency="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Faqwps&amp;width=600&amp;height=427&amp;colorscheme=light&amp;show_faces=false&amp;header=true&amp;stream=true&amp;show_border=true&amp;appId=468230926614503" scrolling=no frameborder=0 style=border:0;overflow:hidden;width:600px;height:427px allowTransparency=true></iframe>
 </center>
 <br/>
 <header>
@@ -126,7 +119,7 @@ Best template built by <a href=http://owlg.org/>OWLG</a> with collaboration with
 <div class=copyright>
 <ul class=menu>
 <li>&copy; WiseX. All rights reserved.</li>
-<iframe async="true" width="600" src=http://www.owlg.org/blog/></iframe>
+<iframe async=true width=600 src=http://www.owlg.org/blog/></iframe>
 <li>Design: <a href=http://owlg.org/>OWLG</a></li>
 </ul>
 </div>
